@@ -4,7 +4,7 @@
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Zariel</a></b>.
     <br>I'm a Software Engineering Undergraduate Student from Vietnam.<br>
 </samp>
-  <img src="/assets/plain-doll.gif" width="200">
+  <img src="/assets/ds3.gif" width="200">
 </p>
 <details align="center">
 <summary> <b> <samp> Light bonfire </samp></b></summary>
