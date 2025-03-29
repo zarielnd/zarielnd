@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Zariel</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Zariel</a></b>.
     <br>I'm a Software Engineering Undergraduate Student from Vietnam.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
@@ -31,5 +31,3 @@
 </samp>
 </details>
 <hr>
-<p>Credits: <a href="https://github.com/TanZng">TanZng</a></p>
-<p>Last Edited on: 31/08/2020</p> 
