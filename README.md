@@ -11,7 +11,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="/assets/bonfire.gif" width="200">
-<p>Current Project: Scientific Research Management</p>
+<p>Current Project: Scientific Research Management System</p>
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zarielnd/">
   <img src="/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
