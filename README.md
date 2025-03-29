@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Zariel</a></b>.
+    Hello there! I'm <b><a class="nofollow noopener noreferrer" target="_blank" href="">Zariel</a></b>.
     <br>I'm a Software Engineering Undergraduate Student from Vietnam.<br>
 </samp>
   <img src="/assets/ds3.gif" width="200">
@@ -13,19 +13,19 @@
 <img src="/assets/bonfire.gif" width="200">
 <p>Current Project: Scientific Research Management</p>
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zarielnd/">
+  <a class="nofollow noopener noreferrer" href="https://www.linkedin.com/in/zarielnd/">
   <img src="/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" target="_blank" href="#">
   <img src="/assets//youtube.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" target="_blank" href="#">
   <img src="/assets/twitter.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" target="_blank" href="#">
   <img src="/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 </samp>
