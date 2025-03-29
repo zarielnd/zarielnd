@@ -30,4 +30,3 @@
 </p> 
 </samp>
 </details>
-<hr>
