@@ -17,15 +17,15 @@
   <img src="/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a class="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" href="#">
   <img src="/assets//youtube.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a class="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" href="#">
   <img src="/assets/twitter.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a class="nofollow noopener noreferrer" target="_blank" href="#">
+  <a class="nofollow noopener noreferrer" href="#">
   <img src="/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 </samp>
