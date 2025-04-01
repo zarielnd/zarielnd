@@ -29,4 +29,6 @@
   <img src="/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 </samp>
+      <img src="https://komarev.com/ghpvc/?username=necoderai&color=B53400&style=for-the-badge&label=VISITORS"/>
 </details>
+
