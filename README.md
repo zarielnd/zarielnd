@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a class="nofollow noopener noreferrer" target="_blank" href="">Zariel</a></b>.
+    Hello there! I'm <b><a class="nofollow noopener noreferrer" target="_blank" href="https://zariel-dev.vercel.app/">Zariel</a></b>.
     <br>I'm a Software Engineering from Vietnam.<br>
 </samp>
   <img src="/assets/ds3.gif" width="200">
