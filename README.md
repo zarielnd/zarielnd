@@ -39,7 +39,7 @@
 <div align="center">
   <img src="[https://github-readme-stats.vercel.app/api?username=zarielnd&theme=dark&count_private=true](https://github-readme-stats.vercel.app/api?username=zarielnd&theme=dark&hide_border=false&include_all_commits=false&count_private=true)" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zarielnd&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zarielnd&theme=dark&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarielnd&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
